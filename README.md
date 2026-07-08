@@ -1,18 +1,14 @@
-# Hi 👋, I'm Nguyen Vu Hoang
+# Hi 👋, I'm Nguyen Vu Hoang aka CosX 
 
-### A student 
+### I am a college student
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CosX&label=Profile views&color=0e75b6&style=flat" alt="CosX" /> </p>
+- 🔭 I'm currently learning software; I want to work on mobile and cross-platform applications with Flutter and Android (Jetpack Compose). I am also learning how to make games with Godot.
 
-- 🔭 I'm currently working on **Software, mobile, and cross-platform applications; sometimes I make games with Godot.**
+- 🤝 I'm looking for help with ***Learn system design*** and ***How to make a Real product***
 
-- 🌱 I'm currently learning **Dart, Flutter, Godot. **
-
-- 🤝 I'm looking for help with **Learn system design**
-
-- 💬 Ask me about **Flutter, Dart, Kotlin**
-
-- 📫 How to reach me: **hoangnguyen.160506@gmail.com**
+📫 You can contact me via email:
+-  **hoangnguyen.160506@gmail.com** <== I typically respond to this email more quickly.
+-  **nguyenvuhoang618@gmail.com**
 
 - ⚡ Fun fact: **I'm not as cold as I look ❄️☃️**
 
