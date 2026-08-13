@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nguyen Vu Hoang aka CosX 
 
-### I am a college student
+### I am a college student at the University of Transport Ho Chi Minh City 
 
 - 🔭 I'm currently learning software; I want to work on mobile and cross-platform applications with Flutter and Android (Jetpack Compose). I am also learning how to make games with Godot.
 
