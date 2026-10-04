@@ -6,9 +6,10 @@
 
 - 🤝 I'm looking for help with ***Learn system design*** and ***How to make a Real product***
 
-📫 You can contact me via email:
--  **hoangnguyen.160506@gmail.com** <== I typically respond to this email more quickly.
--  **nguyenvuhoang618@gmail.com**
+> [!NOTE]
+> 📫 You can contact me via email:
+> -  **hoangnguyen.160506@gmail.com** <== I typically respond to this email more quickly.
+> -  **nguyenvuhoang618@gmail.com**
 
 - ⚡ Fun fact: **I'm not as cold as I look ❄️☃️**
 
